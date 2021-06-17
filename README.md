@@ -12,7 +12,7 @@ In this DevOps wave, there is one piece which is not gaining enough attention:
     Reusability of existing automation in a methodical way
 At the heart of DevOps there are orchestration tools which allow us to bring all pieces of automation together and create a specific DevOps model. Usually, there is no benchmarking available for these automated code(s)/pipelines like which stages they should have, which languages can be used, tools they can use, or how much automations should be built. Typically, pipelines are grouped as build pipelines, test pipelines, deployment pipelines, CI pipelines, CD pipelines and nowadays cloud pipelines, too.
 
-**How did we try to solve the problem**
+**How did we try to solve the problem:**
 In proposed model we have tried to solve the problem, by categorizing code performing similar business objective. We have also tried to benchmark code(s) based on their performance and ease of use.
 
 
